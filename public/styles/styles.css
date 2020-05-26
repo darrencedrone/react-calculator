@@ -1,0 +1,14 @@
+input {
+  border-radius: 5px;
+  width:50px;
+}
+
+input[type="answer"]:disabled {
+  background: white;
+  color: black;
+  width:200px;
+}
+
+select {
+  border-radius: 5px;
+}
